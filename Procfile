@@ -1,1 +1,1 @@
-web: gunicorn YourAppName.wsgis
+web: gunicorn restapi420django.wsgis
